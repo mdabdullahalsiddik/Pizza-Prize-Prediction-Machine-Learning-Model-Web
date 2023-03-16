@@ -1,4 +1,4 @@
-'/home/appuser/venv/bin/python -m pip install --upgrade pip'
+'/home/appuser/venv/bin/pip', 'install', '--no-deps', '/home/appuser/.cache/pypoetry/artifacts/2d/ca/d8/dabaca099adfbadd05f754bbb66ebf314b5b89fa5bae60eea7a3f50ce3/PyICU-2.6.tar.gz'
 streamlit
 pandas
 scikit-learn
