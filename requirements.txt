@@ -1,3 +1,5 @@
 pip
 streamlit
 sklearn
+pickle 
+DecisionTreeRegressor
