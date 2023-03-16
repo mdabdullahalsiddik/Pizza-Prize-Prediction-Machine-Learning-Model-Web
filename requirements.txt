@@ -1,3 +1,4 @@
+"/home/appuser/venv/lib/python3.11/site-packages/pip/_internal/cli/base_command.py"
 '/home/appuser/venv/bin/python 3.11.2 -m pip install --upgrade pip'
 streamlit
 pandas
