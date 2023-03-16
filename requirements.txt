@@ -1,4 +1,4 @@
-pip version 23.0.1
+pip version 22.0.3
 streamlit
 pandas
 scikit-learn
