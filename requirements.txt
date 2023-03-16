@@ -1,5 +1,8 @@
-Python 3.11.2
-'/home/appuser/venv/bin/python -m pip install --upgrade pip'
+You are using pip version 22.0.3; however, version 23.0.1 is available.
+
+You should consider upgrading via the '/home/appuser/venv/bin/python -m pip install --upgrade pip' command.
+
+Checking if Streamlit is installed
 streamlit
 pandas
 scikit-learn
