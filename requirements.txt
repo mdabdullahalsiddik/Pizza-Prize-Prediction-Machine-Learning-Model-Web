@@ -3,4 +3,4 @@ pandas
 scikit-learn
 pickle
 DecisionTreeRegressor
-pip 23.0.1
+'/home/appuser/venv/bin/python -m pip install --upgrade pip'
