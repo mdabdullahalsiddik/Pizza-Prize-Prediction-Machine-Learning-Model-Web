@@ -1,5 +1,5 @@
-pip version 22.0.3
-streamlit
+pip 
+streamlit 23.0.1
 pandas
 scikit-learn
 pickle
