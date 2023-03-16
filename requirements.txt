@@ -1,4 +1,4 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
+/home/appuser/venv/bin/python  pip install --upgrade pip
 streamlit 23.0.1
 pandas
 scikit-learn
