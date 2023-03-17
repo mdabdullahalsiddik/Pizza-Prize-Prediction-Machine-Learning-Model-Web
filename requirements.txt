@@ -2,3 +2,4 @@ pip
 streamlit
 scikit-learn
 tree
+decisiontreeregressor
