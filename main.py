@@ -1,5 +1,15 @@
+#import laibary
+#unnassary output show
+import warnings
+warnings.filterwarnings("ignore")
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+from sklearn.tree import DecisionTreeRegressor
 import streamlit as st
 import pickle as pk
+import joblib
 
 
 
@@ -13,7 +23,7 @@ def main():
     st.markdown(html_temp,unsafe_allow_html=True)
     #st.markdown(html_temp, unsafe_allow_html=True)
     # load the model
-    model = pk.load(open("Pizza_Prize_Prediction", "rb"))
+    model = joblib.load("Pizza_Prize_Prediction", "rb")
     Company = st.selectbox("Company Class", ("A", "B", "C", "D", "E"))
     if Company == "A":
         f1 = 0
