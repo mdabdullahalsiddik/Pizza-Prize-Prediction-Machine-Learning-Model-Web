@@ -1,2 +1,3 @@
 pip
 streamlit
+scikit-learn
